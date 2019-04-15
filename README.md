@@ -1,10 +1,7 @@
-<<<<<<< 710e4e3bed48a890b00448d4eb98dd2ac8784cdc
-=======
-<<<<<<< b84eb42f5fa874a2d8eb07bbfe9bc10096028565
 # http-client-server
 A simple pure C http client and server.
 =======
->>>>>>> Writing the output bug fixed (was writing twice
+
 # C HTTP Client-Server for linux
 
 An implementation of the HTTP client and server for the computer networking course.
@@ -38,9 +35,7 @@ It's syntax is:
 - The server runs on the port `8080`
 
 ## License
-<<<<<<< 710e4e3bed48a890b00448d4eb98dd2ac8784cdc
 This project was made by Elvis Ribeiro and released by under the GPLv3.
 =======
 This project was made by Elvis Ribeiro and released by under the GPLv3.
->>>>>>> First commit
->>>>>>> Writing the output bug fixed (was writing twice
+
