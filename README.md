@@ -21,7 +21,7 @@ The syntax for running it is:
 ```Shell
 ~/client$ ./client hostname:port/requested_file output_file
 ```
-- If the out_put file is not specified the client will save it with the name of the file requested to the server.
+- If the output_file is not specified the client will save it with the name of the file requested to the server.
 - If the requested_file is not specified the client will request the root directory of the server.
 - If the port is not specified the client will run over the port `80`
 
